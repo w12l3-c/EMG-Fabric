@@ -1,5 +1,5 @@
 # EMG-Fabric
-Waterloo EMG Fabric Team
+Waterloo Biotron EMG Fabric SubTeam
 
 ML for predicting the EMG signal recieved from our own designed EMG sesing sleeve.
 <a target="_blank" href="https://colab.research.google.com/github/w12l3-c/EMG-Fabric/blob/main/EMG.ipynb">
