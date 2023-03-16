@@ -2,6 +2,8 @@
 Waterloo EMG Fabric Team
 
 ML for predicting the EMG signal recieved from our own designed EMG sesing sleeve.
+<a target="_blank" href="https://colab.research.google.com/github/w12l3-c/EMG-Fabric/blob/main/EMG.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 ---
 Model Task:
