@@ -4,6 +4,7 @@ Waterloo Biotron EMG Fabric SubTeam
 The Python Script is going to be mounted on the Raspberry Pi which contains the functions of read and write files such that we can achieve real time collecting data + real time predicting with the ML model below. It will also be used to control motion on another 3D prosthetic arm (hopefully).
 
 The model file contains the ML code for predicting the EMG signal recieved from our own designed EMG sesing sleeve.
+
 <a target="_blank" href="https://colab.research.google.com/github/w12l3-c/EMG-Fabric/blob/main/EMG.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
