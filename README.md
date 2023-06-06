@@ -38,8 +38,10 @@ Which model to use:
 Depend on which model has better compatibility with the hardware such as Raspberry Pi and Arduino
 
 ---
+EMG Signal Datasets To Use:
+- https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures
+- https://www.kaggle.com/datasets/nccvector/electromyography-emg-dataset
+
+---
 Future ideas?:
 - idk ¯\_(ツ)_/¯ ask the team leads
-
-
-
