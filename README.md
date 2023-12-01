@@ -30,13 +30,15 @@ Model Summary(By Ranking):
   - It is bad with Accuracy of 65% on Rock Paper Scissors and training time is doubling from DNN
   
 ---
-Which model to use:
-
-Depend on which model has better compatibility with the hardware such as Raspberry Pi and Arduino
+Communication:
+- Using ESP32 to collect the EMG sensor data as the server
+- Using our computer to wirelessly connect to the server as client
+- Latency of less than 5ms
 
 ---
-Future ideas?:
-- idk ¯\_(ツ)_/¯ ask the team leads
+Future ideas:
+- RTops
+- More channels
 
 
 
