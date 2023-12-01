@@ -1,7 +1,10 @@
 # EMG-Fabric
 Waterloo Biotron EMG Fabric SubTeam
 
-ML for predicting the EMG signal recieved from our own designed EMG sesing sleeve.
+The Python Script is going to be mounted on the Raspberry Pi which contains the functions of read and write files such that we can achieve real time collecting data + real time predicting with the ML model below. It will also be used to control motion on another 3D prosthetic arm (hopefully).
+
+The model file contains the ML code for predicting the EMG signal recieved from our own designed EMG sesing sleeve.
+
 <a target="_blank" href="https://colab.research.google.com/github/w12l3-c/EMG-Fabric/blob/main/EMG.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
@@ -29,6 +32,12 @@ Model Summary(By Ranking):
 - Using K-Means and Weighted K-Means
   - It is bad with Accuracy of 65% on Rock Paper Scissors and training time is doubling from DNN
   
+---
+EMG Signal Datasets To Use:
+- https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures
+- https://www.kaggle.com/datasets/nccvector/electromyography-emg-dataset
+
+
 ---
 Communication:
 - Using ESP32 to collect the EMG sensor data as the server
